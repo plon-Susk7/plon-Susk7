@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 Learning Web Development and Machine Learning<br>⚡ Sophomore at IIITD
+<br>🌱 Learning Web Development and Machine Learning<br>⚡ Junior at IIITD
 
 
 ## 🌐 Socials:
